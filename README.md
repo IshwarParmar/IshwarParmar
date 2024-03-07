@@ -1,7 +1,7 @@
 # Hello there, 
-  ## I'm Ishwar Parmar! 👋
-
-Welcome to my GitHub portfolio✨ I am specialized in developing and integrating blockchain and server-side components, with a focus on creating, maintaining, and testing smart contracts for seamless code execution. As a Rust & Solidity Developer, I innovate within the blockchain and Web3 ecosystems to drive technological advancements.
+Welcome to my GitHub portfolio✨
+## I'm Ishwar Parmar! 👋
+ Specialized in developing and integrating blockchain and server-side components, with a focus on creating, maintaining, and testing smart contracts for seamless code execution. As a Rust & Solidity Developer, I innovate within the blockchain and Web3 ecosystems to drive technological advancements.
 
 ## About Me ℹ️
 
