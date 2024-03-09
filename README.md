@@ -5,18 +5,20 @@ Welcome to my GitHub portfolio✨
 
 ## About Me ℹ️
 
-I'm a seasoned software engineer with a passion for crafting innovative solutions to complex challenges. My journey in technology has led me to specialize in Rust development, where I've leveraged its power to build robust and efficient systems. My expertise extends to blockchain technology, particularly in writing smart contracts for platforms like Solana and Ethereum using Rust, Anchor and Solidity. My goal is to become a technical architect, leveraging my analytical skills and passion for innovation to shape the future of software development. Let's connect and explore opportunities for collaboration.
+I'm a seasoned software engineer with a passion for crafting innovative solutions to complex challenges. My journey in technology has led me to specialize in Rust development. My expertise extends to blockchain technology, particularly in writing smart contracts for platforms like Solana and Ethereum using Rust, Anchor and Solidity. Let's connect and explore opportunities for collaboration.
 
 ## Skills 🛠️
 
 I specialize in:
 
 - Programming Languages: Rust, solidity, Javascript
-- Technologies/Frameworks: Solana, Ethereum blockchain, Web3, ReactJS, NextJS, NodeJS
+- Technologies/Frameworks: Solana blockchain, Ethereum blockchain, Web3, ReactJS, NextJS, NodeJS
 
 ## Get in Touch 📫
 
 - Email: ishwarp716@gmail.com
+- LinkedIn: [Ishwar-dev](https://www.linkedin.com/in/ishwar-dev/)
+- Resume: [Click Here](https://ishwar-parmar-portfolio.netlify.app/assets/ishwar-blockchain-developer.pdf)
 
 ## Explore More
 
